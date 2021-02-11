@@ -15,12 +15,9 @@ Le maximum de 25 degrés.
 Utilisation de la fonction std() de pandas.
 L'écart type est d'environ 1.29.
 
-utiliser par exemple  Python Scipy pour les parties mathématiques
-tracer les coubes de chaque mois avec une bibliothèque graphique python
 Nous avons utilisé la bibliothèque plotly.
 
-assembler les courbes sur un seul graphique (J1 -> J365) 
-présenter la valeur lue en parcourant la courbe à l'aide du pointeur, présenter les valeurs précédentes par mois et par année, par mois glissant de 30 jours centré sur la valeur lue
+assembler les courbes sur un seul graphique (J1 -> J365)
 
 à partir de données opendata, retrouver le type de climat
 reprendre les données typiques d'une localisation proche  fournies en complément , comparer les écarts. Qu'en concluez vous ?
